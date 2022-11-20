@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    color: white;
+}
+.it {
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+button {
+    color: white;
+    background-color:  #0099ff;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+input {color: black;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+div { border:solid black; 
+    margin-top: 50px;
+    
+}
+h2{
+    color:  #0099ff;
+    margin-top: 20px;
+}
+
