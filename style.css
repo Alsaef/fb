@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    color: white;
+    color: black;
 }
 .it {
     margin-bottom: 50px;
@@ -12,6 +12,7 @@ button {
     font-size: 20px;
     border-radius: 20px;
     margin-top: 5px;
+    
 }
 input {color: black;
     font-size: 20px;
@@ -29,4 +30,3 @@ h2{
 ul{
     list-style: none;
 }
-
