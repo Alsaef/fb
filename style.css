@@ -6,11 +6,10 @@ body {
     margin-bottom: 50px;
     margin-right: 100px;
 }
-button {
+.button {
     color: white;
     background-color:  #0099ff;
-    font-size: 20px;
-    border-radius: 20px;
+    
     margin-top: 5px;
     
 }
